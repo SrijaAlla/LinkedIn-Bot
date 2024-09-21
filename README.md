@@ -5,7 +5,7 @@ Add a `.env`
 ```python
 GOOGLE_API_KEY  = "YOUR API KEY"
 GMAIL = "Your gmail"
-PASSWORD = "your Linkein password"
+PASSWORD = "your Linkedin password"
 ```
 Change the post under which you need AI-generated comments. In line 67 in `linkedin.py`
 Code line
