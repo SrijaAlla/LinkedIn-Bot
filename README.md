@@ -1,6 +1,6 @@
 # LinkedBot with Selenium and Gemini AI
 ### Code
-Code is in `linkedin.py`
+Code is in `linkedin.py`.
 Add a `.env`
 ```python
 GOOGLE_API_KEY  = "YOUR API KEY"
